@@ -1,9 +1,9 @@
-# Hi 👋, I'm cap.eth
+# Hi 👋 I'm cap.eth
 
-- I'm a builder, thinker, investor, dot-connector, technologist, grumpy optimist, and some other cool things I can't talk about now.
+I'm a builder, thinker, investor, dot-connector, technologist, grumpy optimist, and some other cool things I can't talk about now.
 
-- Working on **building the identity layer for Web3 on ENS (with [namespace.ninja](https://namespace.ninja/)) and the programmable execution layer for AI agents (with [namera.ai](https://www.namera.ai/)).**
+At the moment, I'm having fun with:
 
-- Documenting my journey (when I can) at **[https://kriskocic.com/](https://kriskocic.com/)**
-
-
+- building the identity layer for Web3 on ENS (with [namespace.ninja](https://namespace.ninja/)).
+- building the programmable execution layer for AI agents (with [namera.ai](https://www.namera.ai/)).
+- documenting my journey (whenever I can) at [https://kriskocic.com/](https://kriskocic.com/).
