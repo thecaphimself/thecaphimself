@@ -1,4 +1,4 @@
-# Hi 👋 I'm cap.eth
+# Hi there 👋 I'm cap.eth
 
 I'm a builder, thinker, investor, dot-connector, technologist, grumpy optimist, and some other cool things I can't talk about now.
 
