@@ -1,6 +1,6 @@
 # Hi there 👋 I'm cap.eth
 
-I'm a builder, thinker, investor, dot-connector, technologist, grumpy optimist, and some other cool things I can't talk about now.
+I'm a builder, thinker, investor, dot-connector, technologist, grumpy optimist, and some other cool things I can't talk about now...
 
 At the moment, I'm having fun with:
 
